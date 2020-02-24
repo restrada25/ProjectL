@@ -1,2 +1,2 @@
 # ProjectL
-iOs App for the CTA
+iOS App for the CTA
